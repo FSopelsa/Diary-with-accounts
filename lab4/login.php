@@ -23,4 +23,3 @@ if (!empty($_POST)) {
 <input type="submit" />
 </form>
 
-//action="index.php"

@@ -1,5 +1,0 @@
-- Användarnamn: fn222hn
-- Lösenord: Jtrvsk
-- SFTP-server: sftp://melab.lnu.se
-- Webbrot: https://melab.lnu.se/~fn222hn/
-- Databashanterare: https://melab.lnu.se/dbms/
